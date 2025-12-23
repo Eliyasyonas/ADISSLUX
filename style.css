@@ -178,15 +178,14 @@
             text-shadow: 0 4px 30px rgba(0,0,0,0.4);
         }
         .hero-parg{
-                font-size: clamp(2rem, 6vw, 6rem);
+                font-size:5px;
                 font-weight:200;
-                letter-spacing:0.05em;
+                letter-spacing:-0.05em;
                 line-height:1;
                 justify-content:center;
-                max-width:500px;
+                max-width:100px;
                 margin: 0 auto 40px auto;
-                opacity:0.9; 
-                
+                opacity:0.9;    
         }
 
         .btn-hero {
