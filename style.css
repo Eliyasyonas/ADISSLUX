@@ -380,7 +380,11 @@
         margin:5px 3px;
         justify-content:left;
         text-align:justify;
-        list-type:none;
+       
+}
+ul{
+      list-type:none;
+        align-item:left;
 }
 .social-icons svg{
         margin:2px 15px;
