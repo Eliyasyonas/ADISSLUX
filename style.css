@@ -177,6 +177,13 @@
             margin-bottom: 40px;
             text-shadow: 0 4px 30px rgba(0,0,0,0.4);
         }
+        .hero-parg{
+                font-size: clamp(2rem, 6vw, 6rem);
+                font-weight:100;
+                letterspacing:0.05;
+                line-height:1;
+                
+        }
 
         .btn-hero {
             background: white;
