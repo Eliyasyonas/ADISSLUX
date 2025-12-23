@@ -374,6 +374,10 @@
             border-top: 1px solid var(--border-color);
             padding: 120px 40px 60px 40px;
         }
+.social-icons{
+        margin:2px 4px;
+        cursor:pointer;
+}
 
         .footer-container {
             max-width: var(--max-width);
