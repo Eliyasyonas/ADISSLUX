@@ -377,11 +377,13 @@
 .links-footer{
         align-item:left;
         margin:5px 3px;
+        justify-content:left;
+        text-align:justify;
 }
 .social-icons svg{
         margin:2px 15px;
         margin-bottom:20px;
-        cursor: grab;
+        cursor: pointer;
 }
 
         .footer-container {
