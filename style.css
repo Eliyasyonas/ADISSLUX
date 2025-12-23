@@ -165,8 +165,13 @@
         }
 
         .hero-content {
-            position: relative;
+             position: relative;
             z-index: 10;
+            display: flex;
+            flex-direction: column; 
+            align-items: center;
+        text-align: center;     
+            padding: 0 20px;
         }
 
         .hero-title {
@@ -178,14 +183,14 @@
             text-shadow: 0 4px 30px rgba(0,0,0,0.4);
         }
         .hero-parg{
-                font-size:5px;
-                font-weight:200;
-                letter-spacing:-0.05em;
-                line-height:1;
-                justify-content:center;
-                max-width:600px;
-                margin: 0 auto 40px auto;
-                opacity:0.9;    
+               ont-size: 15px;         
+            font-weight: 300;
+            letter-spacing: 0.02em;
+            line-height: 1.8;
+            text-align: justify;    
+            max-width: 550px;       
+            margin: 0 auto 40px auto; 
+            opacity: 0.9;   
         }
 
         .btn-hero {
