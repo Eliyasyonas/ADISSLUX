@@ -180,10 +180,11 @@
         .hero-parg{
                 font-size: clamp(2rem, 6vw, 6rem);
                 font-weight:100;
-                letterspacing:0.05;
+                letter-spacing:0.05em;
                 line-height:1;
                 justify-content:center;
                 margin-bottom:10 px;
+                text-align:center;
                 
                 
         }
