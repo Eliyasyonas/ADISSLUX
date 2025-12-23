@@ -374,6 +374,10 @@
             border-top: 1px solid var(--border-color);
             padding: 120px 40px 60px 40px;
         }
+.links-footer{
+        align-item:left;
+        margin:5px 3px;
+}
 .social-icons svg{
         margin:2px 15px;
         margin-bottom:20px;
