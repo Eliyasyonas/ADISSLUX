@@ -184,11 +184,11 @@
         }
         .hero-parg{
                ont-size: 15px;         
-            font-weight: 300;
+            font-weight: 500;
             letter-spacing: 0.02em;
             line-height: 1.8;
             text-align: justify;    
-            max-width: 550px;       
+            max-width: 700px;       
             margin: 0 auto 40px auto; 
             opacity: 0.9;   
         }
