@@ -375,27 +375,18 @@
             padding: 120px 40px 60px 40px;
             background-color:grey;
         }
-.links-footer{
-        align-item:left;
-        margin:5px 3px;
-        justify-content:left;
-        text-align:justify;
-       
-}
-ul{
-      list-type:none;
-        align-item:left;
-}
+
+
 .social-icons svg{
         margin:2px 15px;
-        margin-bottom:20px;
+        margin-bottom:30px;
         cursor: pointer;
 }
 
         .footer-container {
             max-width: var(--max-width);
             margin: 0 auto;
-            display: grid(3,1);
+            display: flex;
             flex-direction: column;
             align-items: center;
             text-align: center;
