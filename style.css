@@ -383,7 +383,7 @@
         cursor: pointer;
 }
 
-        .footer-container {
+        .container-footer {
             max-width: var(--max-width);
             margin: 0 auto;
             display: flex;
