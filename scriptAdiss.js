@@ -9,7 +9,7 @@
             { id: 10, name: "Structured Blazer", price: 780, image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800" },
             { id: 11, name: "Suede Chelsea Boots", price: 540, image: "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&q=80&w=800" },
             { id: 12, name: "Raw Denim Jacket", price: 420, image: "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?auto=format&fit=crop&q=80&w=800" },
-            { id: 13, name: "Handcrafted Belt", price: 180, image: "https://images.unsplash.com/photo-1624222247344-550fb8ec970d?auto=format&fit=crop&q=80&w=800" },
+            { id: 13, name: "Handcrafted Belt", price: 180, image: "Gemini_Generated_Image_hdkm14hdkm14hdkm.png" },
             { id: 14, name: "Silk Evening Gown", price: 2400, image: "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&q=80&w=800" },
             { id: 15, name: "Acetate Frame Glasses", price: 320, image: "Gemini_Generated_Image_hnxubwhnxubwhnxu.png" },
             { id: 16, name: "Silk Jacquard Tie", price: 140, image: "https://images.unsplash.com/photo-1598032895397-b9472444bf93?auto=format&fit=crop&q=80&w=800" },
